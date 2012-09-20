@@ -10,3 +10,16 @@ C:\Users\Alonso\documents\visual studio 2012\Projects\ActiveDirectoryManager\Act
 C:\Users\Alonso\documents\visual studio 2012\Projects\ActiveDirectoryManager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.pdb
 C:\Users\Alonso\documents\visual studio 2012\Projects\ActiveDirectoryManager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Usuario.resources
 C:\Users\Alonso\Documents\Visual Studio 2012\Projects\ActiveDirectoryManager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Miembros.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\bin\Debug\ActiveDirectoryManager.exe.config
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.exe
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.pdb
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\bin\Debug\ActiveDirectoryManager.exe
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\bin\Debug\ActiveDirectoryManager.pdb
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.csprojResolveAssemblyReference.cache
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Conexión.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Inicio.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Miembros.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Properties.Resources.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Elemento.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.Usuario.resources
+C:\Users\Alonso\Documents\GitHub\ad-manager\ActiveDirectoryManager\obj\Debug\ActiveDirectoryManager.csproj.GenerateResource.Cache

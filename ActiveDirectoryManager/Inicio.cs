@@ -28,9 +28,15 @@ namespace ActiveDirectoryManager
 
         private void MainWindow_Load(object sender, EventArgs e)
         {
+            Conexión diálogo = new Conexión();
+            diálogo.ShowDialog(this);
+            
             try
             {
-                ad = new ADAdministrador();
+                if (diálogo.TipoConexión == TipoConexión.Local)
+                    ad = new ADAdministrador();
+                else if (diálogo.TipoConexión == TipoConexión.Externa)
+                    ad = new ADAdministrador(diálogo.Servidor, diálogo.Usuario, diálogo.Contraseña);
                 this.listAll();
             }
             catch (Exception ex)
